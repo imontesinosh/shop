@@ -1,0 +1,20 @@
+[
+  {
+    "image": "https://cdnres.masmovil.es/assets/images/telefonos-moviles/zte-v8-lite/zte-v8-lite.png",
+    "name": "ZTE BLADE V8 LITE",
+    "description": "A la última sin complicaciones",
+    "price": 9.95
+  },
+  {
+    "image": "https://cdnres.masmovil.es/assets/images/telefonos-moviles/lg-k9/lg-k9.png",
+    "name": "LG K9",
+    "description": "El móvil a todo color",
+    "price": 19.95
+  },
+  {
+    "image": "https://cdnres.masmovil.es/assets/images/telefonos-moviles/huawei-y7/huawei-y7.png",
+    "name": "HUAWEI Y7 2018",
+    "description": "Admira el diseño",
+    "price": 29.95
+  }
+]
